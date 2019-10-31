@@ -28,7 +28,10 @@ Kattya Cuevas | Building and Consuming a JSON API with Rails and React | https:/
 ### Contácto
 
 e-mail : gdglima@gmail.com
+
 meetup : https://www.meetup.com/es-ES/gdglima/
+
 fb : https://www.facebook.com/gdglima/
+
 website : https://gdglima.com/
 
