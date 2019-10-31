@@ -16,7 +16,7 @@ Website : https://devfest.gdglima.com/
 Expositor | Tema  | Presentación 
 ------------ | ------------- | ------------- 
 Grant Timmerman  | Go Serverless with Google Cloud! | https://drive.google.com/file/d/1Rsb5qg-ZXzMn9xur8PdSwufItoqasATG/view?usp=sharing https://github.com/GoogleCloudPlatform/functions-framework-nodejs https://github.com/GoogleCloudPlatform/cloud-tasks-pizza-map
-Manuel Rodriguez  | Como hacemos Big Data en Google | -
+Manuel Rodriguez  | Como hacemos Big Data en Google | https://docs.google.com/presentation/d/1aauhLyEkvm8OWIvS01ZUdp9QCyTsnOiUvwIs-rSSYZ0/edit?ts=5dbb1556#slide=id.g65965405f8_0_0
 Victoria Alejandra Ubaldo Gamarra | Building ML things with Tensorflow  | https://drive.google.com/file/d/1BfZxdYmeahYpx_Ma2L7_8GIUvFqLxaaR/view?usp=sharing
 Carlos Piñan | Jetpack Composer Design (Android) | https://docs.google.com/presentation/d/1O8cM0gZ19IJb5CsP8DjF_sR72775BRVXR6EEBWRQWos/edit?usp=sharing
 Geferson Pillaca | An introduction to Kotlin Coroutines (Android) | https://docs.google.com/presentation/d/1u2zbtmtJ9Bbl5Jv17bjHkxaG1rmbIRyTFr6C89tzjMQ/edit?usp=sharing
