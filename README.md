@@ -4,6 +4,7 @@ DevFestLima-Oct2019 | Slides and resources
 GDGLima DevFestLima 2019
 
 Meetup : https://www.meetup.com/es-ES/gdglima/events/265429819/
+
 Website : https://devfest.gdglima.com/
 
 ### 🚀 Organizado : 
